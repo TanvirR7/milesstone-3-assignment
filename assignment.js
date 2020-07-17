@@ -73,6 +73,6 @@ function tinyFriend(friend){
     return singleFriend;
 }
 
-let friends =["Hobirul", "Shihab", "Jam", "Rashed", "Sorif" , "Mannik"];
+let friends =[ "Shihab", "Jam", "Rashed", "Sorif" , "Mannik"];
 let results = tinyFriend(friends);
 console.log(results)
